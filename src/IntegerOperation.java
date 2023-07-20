@@ -42,11 +42,12 @@ public class IntegerOperation {
             int division = firstNumber / secondNumber;
 
             System.out.println(firstNumber + "-" +secondNumber + "=" + division );
+            return;
 
 
         }
 
-
+      // Test
 
 
 
